@@ -52,7 +52,7 @@
   <h5 align="center">Insert(Text,Image,..)</h5>
     <h1 align="center"><img src="Insert1.gif" alt="Erorr" width="550" height="350">
   <h5 align="center">Undo/Redo</h5> 
-  <h1 align="center"><img src="Undo.gif" alt="Erorr" width="550" height="350">
+  <h1 align="center"><img src="Undo1.gif" alt="Erorr" width="550" height="350">
   <h5 align="center">Decrease size</h5>
     <h1 align="center"><img src="Decresesize1.gif" alt="Erorr" width="550" height="350">
   <h5 align="center">Increase size</h5>
