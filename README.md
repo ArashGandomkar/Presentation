@@ -76,7 +76,7 @@
     <h5 align="center">Connect with me</h5>
   <p align="center">
 <a href="https://instagram.com/arash__gk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arash__gk" height="30" width="40" /></a>
-<a href="https://t.me/lArashGkl" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="lArashGkl" height="28" width="39" /></a>
+<a href="https://t.me/ArashGandomkaar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="lArashGkl" height="28" width="39" /></a>
 <a href="https://wa.me/989361737906" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="+989361737906" height="34" width="51" /></a>
 </p>
 <h4 align="center">Produced by Arash Gandomkar</h4>
